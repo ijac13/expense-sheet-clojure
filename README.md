@@ -2,7 +2,11 @@
 
 _This application is generated with [clojure-stack-lite](https://github.com/abogoyavlensky/clojure-stack-lite)._
 
-_TODO: add project description_
+## Why this repo
+
+I build my own [expense-sheet](https://github.com/ijac13/expense-sheet) — a household expense tracker — with Claude and [Spacedock](https://spacedock.dev). As a non-engineer builder, I always say yes to whatever the agent suggests on technical stacks and copy-paste the commands it gives me.
+
+My friend Laurence has different thoughts about how agents suggest tech stacks. Since I don't have any preference, I'd rather say yes to a human than an agent. So this is the trial repo — a rebuild of my expense-sheet using the stack he suggests: [Agent-ready stack](https://replware.substack.com/p/agent-ready-stack).
 
 
 ## Development
