@@ -1,0 +1,14 @@
+{
+  "name": "expense-sheet-clojure",
+  "short_name": "expense-sheet-clojure",
+  "start_url": "/",
+  // TODO: add domain of the project
+  // "id": "https://expense-sheet-clojure.com/",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "/assets/images/icon@192px.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "/assets/images/icon@512px.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable" },
+    { "src": "/assets/images/icon@512px.png", "type": "image/png", "sizes": "512x512" }
+  ]
+}
